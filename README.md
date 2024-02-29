@@ -5,3 +5,6 @@ Plane war is small video game created on pygame.Your task is to shoot down the b
 
 # This game is also available on itch.io
 https://gameforcestudio.itch.io/plane-war
+
+# This is a recording of this game
+https://drive.google.com/file/d/1K783WSzB2su-X6HASpgguSKAoH0D3Tig/view?usp=drive_link
